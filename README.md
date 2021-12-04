@@ -23,8 +23,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Pacote Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
-
-
   
 ## Contato
 
@@ -32,3 +30,5 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5535991852178&text=Ol%C3%A1%2C%20vim%20pelo%20GitHub)&nbsp;
 
 ![Snake animation](https://github.com/im-davidh11/im-davidh11/blob/output/github-contribution-grid-snake.svg)
+
+>*Destiny is a gift. Never forget that fear is but the precursor to valor, that to strive and triumph in the face of fear, is what is means to be a hero. Don’t think. Become!*
