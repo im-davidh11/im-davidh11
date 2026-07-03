@@ -1,5 +1,3 @@
-<img align="right" alt="icon" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/916459649203572790/916485336257941545/ezgif.com-gif-maker.gif">
-
 # Olá, eu sou o David!
 
 Perfil em manutenção...
